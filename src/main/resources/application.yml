@@ -1,0 +1,5 @@
+datasource:
+  url: jdbc:postgresql://wooden-doe-8268.7tt.cockroachlabs.cloud:26257/wooden-doe.roach_data?sslmode=verify-full&sslrootcert={path to the CA certificate}/cc-ca.crt
+  username: dbekinal
+  password: JZ9XkENvtllb1TqAENYC5Q
+  driver-class-name: org.postgresql.Driver
